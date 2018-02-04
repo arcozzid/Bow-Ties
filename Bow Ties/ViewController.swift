@@ -117,7 +117,7 @@ class ViewController: UIViewController {
     let count = try! managedContext.count(for: fetch)
     
     if count > 0 {
-      // Sample data was alreay in Core Data ---
+      // Sample data was alreay in Core Data --- 
       
       return
     }
